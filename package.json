@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Responsive portfolio website",
   "main": "main.js",
-  "homepage": "https://github.com/Dhyani01/mywebsite.git",
+  "homepage": "https://dhyani01.github.io/mywebsite/.",
   "scripts": {
     "sass": "node-sass -w scss/ -o dist/css/ --recursive",
     "deploy": "gh-pages -d dist"
